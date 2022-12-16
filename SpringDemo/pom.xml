@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   
   <properties>
-      <springframework>4.0.4.RELEASE</springframework>
+      <springframework>5.2.20.RELEASE</springframework>
       <servlet>3.1.0</servlet>
       <!-- 文件拷贝时的编码 -->
       <project.build.sourceEncoding>GB2312</project.build.sourceEncoding>
